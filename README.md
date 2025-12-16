@@ -18,3 +18,4 @@ Should you wish to edit any settings, you can edit install.sh and edit the user 
 This may get updated in the future to function with more features, but this is very much no a priority for myself, or CIF, since it works for what it needs to do, and other things need to get done.  
 
 This is release 2.1
+You can download an ISO from the releases tab, should you so wish.  
