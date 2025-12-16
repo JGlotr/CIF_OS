@@ -1,0 +1,21 @@
+\e[38;2;0;200;0m           `.:/ossyyyysso/:.
+\e[38;2;0;200;0m        .:oyyyyyyyyyyyyyyyyyyo:`
+\e[38;2;0;200;0m      -oyyyyyyyyyyyyyyyyyyysyyyyo-
+\e[38;2;0;200;0m    -syyyyyyyyyyyyyyyyyyyyyyyyyyyys-
+\e[38;2;0;200;0m   oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo
+\e[38;2;0;200;0m `oyyyyyo\e[38;2;255;255;255mk0KKXXXXXXXXXXXXXXXXXXXXXXO\e[38;2;0;200;0myo`
+\e[38;2;0;200;0m oyyyyy\e[38;2;255;255;255mkNMMWXKKKKNMMWNXKKXWMMNK0KK0Kk\e[38;2;0;200;0myo
+\e[38;2;0;200;0m-yyyyl\e[38;2;255;255;255mXMMXd:,''';OMMKkc''lXMMk\e[38;2;0;200;0myyyyyyyy-
+\e[38;2;0;200;0moyyyy\e[38;2;255;255;255m0MMKc..';c:l0MMKx:..cXMM0lcc\e[38;2;0;200;0myyyyyyo
+\e[38;2;0;200;0myyyyy\e[38;2;255;255;255mKMMk'..oXWWWMMMKx:..cXMMMWMNl\e[38;2;0;200;0myyyyyy
+\e[38;2;0;200;0myyyyy\e[38;2;255;255;255m0MM0,..;xkkOXMMKx:..cXMMXOkk\e[38;2;0;200;0myyyyyyy
+\e[38;2;0;200;0moyyyy\e[38;2;255;255;255moNMWk;.....'kMMKx;..cXMMx\e[38;2;0;200;0myyyyyyyyyo
+\e[38;2;0;200;0m-yyyyy\e[38;2;255;255;255moXMWXkdooodKMMNKxookNMMx\e[38;2;0;200;0myyyyyyyyy-
+\e[38;2;0;200;0m oyyyyy\e[38;2;255;255;255md0NWMMMMMMMMMMMMMMMMM\e[38;2;0;200;0myyyyyyyyo
+\e[38;2;0;200;0m `oyyyyyyyycodoooodddddoodoodyyyyyyyyo
+\e[38;2;0;200;0m   oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo
+\e[38;2;0;200;0m    -syyyyyyyyyyyyyyyyyyyyyyyyyyyys-
+\e[38;2;0;200;0m      -oyyyyyyyyyyyyyyyyyyyyyyyyo-
+\e[38;2;0;200;0m        ./oyyyyyyyyyyyyyyyyyyo/.
+\e[38;2;0;200;0m           `.:/oosyyyysso/:.`
+\e[0m
